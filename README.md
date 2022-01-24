@@ -6,7 +6,7 @@
  
 </div>
 
-<h3>RLinguagens</h3>
+<h3>Linguagens</h3>
 
 <div> 
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"/>
